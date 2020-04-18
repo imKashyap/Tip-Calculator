@@ -1,6 +1,6 @@
 # Tip Calculator
 
-* A new Flutter application to caalculate the bill which includes the amount and tip.
+* A new Flutter application to calculate the bill which includes the amount and tip.
 * Here are the Screenshots:
 
 ##Screenshots
