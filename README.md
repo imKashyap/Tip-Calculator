@@ -5,6 +5,6 @@
 
 ##Screenshots
 
-<img src="screenshots/Screenshot_1.png" width=350 alt="Screenshot of the app.">
+<img src="screenshots/screenshot_1.jpeg" width=350 alt="Screenshot of the app.">
 
 
